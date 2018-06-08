@@ -1,0 +1,11 @@
+/Users/Douglas/Projects/pratica-poo/pratica-poo/bin/Debug/netcoreapp2.0/pratica-poo.deps.json
+/Users/Douglas/Projects/pratica-poo/pratica-poo/bin/Debug/netcoreapp2.0/pratica-poo.runtimeconfig.json
+/Users/Douglas/Projects/pratica-poo/pratica-poo/bin/Debug/netcoreapp2.0/pratica-poo.runtimeconfig.dev.json
+/Users/Douglas/Projects/pratica-poo/pratica-poo/bin/Debug/netcoreapp2.0/pratica-poo.dll
+/Users/Douglas/Projects/pratica-poo/pratica-poo/bin/Debug/netcoreapp2.0/pratica-poo.pdb
+/Users/Douglas/Projects/pratica-poo/pratica-poo/obj/Debug/netcoreapp2.0/pratica-poo.csprojResolveAssemblyReference.cache
+/Users/Douglas/Projects/pratica-poo/pratica-poo/obj/Debug/netcoreapp2.0/pratica-poo.csproj.CoreCompileInputs.cache
+/Users/Douglas/Projects/pratica-poo/pratica-poo/obj/Debug/netcoreapp2.0/pratica-poo.AssemblyInfoInputs.cache
+/Users/Douglas/Projects/pratica-poo/pratica-poo/obj/Debug/netcoreapp2.0/pratica-poo.AssemblyInfo.cs
+/Users/Douglas/Projects/pratica-poo/pratica-poo/obj/Debug/netcoreapp2.0/pratica-poo.dll
+/Users/Douglas/Projects/pratica-poo/pratica-poo/obj/Debug/netcoreapp2.0/pratica-poo.pdb
